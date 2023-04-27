@@ -40,7 +40,7 @@ $\frac{\partial C}{\partial X} = w^T \cdot \frac{\partial C}{\partial z} \quad$ 
 
 ## For example:
 
-![Alt text](attachment:%D9%86%D8%B5%20%D9%81%D9%82%D8%B1%D8%AA%D9%83.png)
+![Neural Network example](NNexample.png)
 
 
 If we have 2x1 input and 3 hidden layers, here is how to do the forward and backward propagation for the output layer and the rest layers will be the same:
