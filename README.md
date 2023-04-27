@@ -13,10 +13,11 @@ If we call:
 ## Forward Propagation
 In forward propagation, for each layer:
 
-\begin{aligned}
-\displaystyle X &\rightarrow \boxed{\pmb{layer}} \rightarrow Y \\[10pt]
-Y &= f(W \cdot X + B)
-\end{aligned}
+$X$ =  $\rightarrow$ $\boxed{\text{layer}}$ $\rightarrow$ $Y$
+
+$Y$ = f($W$ $\cdot$ $X$ + $B$)
+
+
 
 The output for one layer is the input for the next layer.
 
